@@ -10,6 +10,7 @@
 <%@ include file="public/top.jsp" %>
 <div style="width:100%;height:500px">
 <!-- 显示用户信息 -->
+嘎嘎嘎
 名前：田
 <br>
 <jsp:useBean id="Email" class="com.bean.Email" scope="page"></jsp:useBean>
